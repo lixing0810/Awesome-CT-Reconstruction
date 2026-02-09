@@ -22,6 +22,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 
 
 ### 2024
+- <a name="NGIM-IRL"></a>**[NGIM-IRL]** Noise-Generating and Imaging Mechanism Inspired Implicit Regularization Learning Network for Low-Dose CT Reconstruction (**TMI**) [[paper]([https://openreview.net/pdf?id=XCzuQI0oXR]) [[Code](https://github.com/lixing0810/NGIM-IRL)]
 - <a name="INR4JointCTRecon"></a>**[INR4JointCTRecon]** Implicit Neural Representations for Robust Joint Sparse-View CT Reconstruction (**TMLR**) [[paper](https://openreview.net/pdf?id=XCzuQI0oXR)] [[Code](https://github.com/jiayangshi/INR4JointCTRecon)]
 - <a name="GB-HMC"></a>**[GB-HMC]** A Gradient-Based Approach to Fast and Accurate Head Motion Compensation in Cone-Beam CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/10705329)] [[Code](https://github.com/mareikethies/geometry_gradients_CT)]
 
